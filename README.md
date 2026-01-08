@@ -42,10 +42,6 @@ Passing a custom port
 npm run dev -- --port 5174
 ```
 
-Troubleshooting
-- If dependencies fail to install, ensure your Node version meets the prerequisite and try deleting `node_modules` then reinstalling.
-- If the dev server port is in use, pick a different port with the flag shown above.
-
 Files of interest
 - `index.html` — app entry HTML
 - `src/main.jsx` — React entry
